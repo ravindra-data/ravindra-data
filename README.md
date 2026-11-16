@@ -11,7 +11,7 @@ Currently pursuing a Bachelor of Computer Applications (BCA) and building hands-
 ## 👨‍💻 About Me
 
 - 📊 Focused on Data Analytics and Business Intelligence.
-- 🐍 Experienced in Python, Pandas, NumPy, and SQL.
+- 🐍 Working with Python, Pandas, NumPy, and SQL.
 - 📈 Building interactive dashboards using Power BI and Excel.
 - 🤖 Developed **Analytix AI**, an AI-powered data analytics application.
 - 🔍 Interested in data cleaning, EDA, statistical analysis, and business insights.
@@ -35,22 +35,40 @@ Currently pursuing a Bachelor of Computer Applications (BCA) and building hands-
 
 ## 🚀 Featured Projects
 
-### 🤖 [Analytix AI](https://github.com/ravindra-data/Analytix-AI)
-AI-powered personal data analytics application built with Python and Streamlit, featuring data cleaning, visualization, automated analysis, and AI-generated insights.
+### 🤖 Analytix AI – AI-Powered Data Analyst
 
-### 📊 [Customer Shopping Behavior Analysis](https://github.com/ravindra-data/customer-shopping-behavior-analysis)
+**[📂 GitHub Repository](https://github.com/ravindra-data/Analytix-AI) | [🚀 Try Live Application](https://analytix-ai-rk.streamlit.app/)**
+
+AI-powered personal data analytics application built with Python and Streamlit, featuring data cleaning, visualization, automated analysis, and AI-generated insights through Groq and Ollama integration.
+
+### 📊 Customer Shopping Behavior Analysis
+
+[GitHub Repository](https://github.com/ravindra-data/customer-shopping-behavior-analysis)
+
 Analyzed 3,900 retail transactions using Python, MySQL, and Power BI to uncover customer purchasing patterns, revenue trends, and loyalty insights.
 
-### 📈 [Retail Sales Uplift Dashboard](https://github.com/ravindra-data/retails-sales-uplift-dashboard)
+### 📈 Retail Sales Uplift Dashboard
+
+[GitHub Repository](https://github.com/ravindra-data/retails-sales-uplift-dashboard)
+
 Analyzed 50,000 retail transactions using SQL and Power BI to explore regional sales performance, product trends, and channel distribution.
 
-### 📉 [Power BI Sales Dashboard](https://github.com/ravindra-data/powerbi-sales-dashboard)
+### 📉 Power BI Sales Dashboard
+
+[GitHub Repository](https://github.com/ravindra-data/powerbi-sales-dashboard)
+
 Developed an interactive sales dashboard featuring Star Schema data modeling and 20+ DAX measures across executive, customer, and product analysis.
 
-### 💰 [Finance Analysis Dashboard](https://github.com/ravindra-data/finance-analysis-dashboard)
+### 💰 Finance Analysis Dashboard
+
+[GitHub Repository](https://github.com/ravindra-data/finance-analysis-dashboard)
+
 Built a Power BI finance dashboard analyzing 50K+ transactions and 5K customers to explore financial performance, customer segments, and fraud risk indicators.
 
-### 📊 [Statistical Analysis of Payment Transactions](https://github.com/ravindra-data/spread-locator-statistical-analysis)
+### 📊 Statistical Analysis of Payment Transactions
+
+[GitHub Repository](https://github.com/ravindra-data/spread-locator-statistical-analysis)
+
 Analyzed 220 payment transactions using Python, probability distributions, hypothesis testing, data transformation, and visualization.
 
 ---
@@ -64,7 +82,8 @@ Analyzed 220 payment transactions using Python, probability distributions, hypot
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
+**Bachelor of Computer Applications (BCA)**
+
 Indira Gandhi National Open University (IGNOU)  
 January 2026 – Expected December 2028
 
@@ -75,6 +94,7 @@ January 2026 – Expected December 2028
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravindra-kumar02)
 - 🐙 [GitHub](https://github.com/ravindra-data)
 - 🌐 [Portfolio Website](https://ravindra-data.github.io)
+- 🤖 [Analytix AI – Live Application](https://analytix-ai-rk.streamlit.app/)
 - 📧 [Email](mailto:pantherblack078@gmail.com)
 
 ---
